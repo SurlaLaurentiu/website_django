@@ -1,0 +1,66 @@
+.page-header{
+  background-color: #f9f1f9;
+}
+
+h1 {
+  background-color: black;
+}
+
+.nav-link li a {
+  color: black;
+}
+
+.center {
+  width: 100%;
+  height: auto;
+}
+
+.nav.justify-content-center li a {
+  color: black;
+  font-weight: bold;
+  display: block;
+  
+  
+}
+
+.nav.justify-content-center li a:hover{
+  color: #437073;
+
+}
+
+body{
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+#text{
+  text-align: center;
+  color: #f9f1f9;
+}
+
+#title{
+  text-align: center;
+  color: #f9f1f9;
+}
+
+#paragraf{
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+  color: #f9f1f9;
+}
+
+#imgflorarie{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  margin-bottom: 100px;
+}
+
+#footer{
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+  color: #f9f1f9;
+}

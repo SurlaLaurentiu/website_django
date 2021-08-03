@@ -1,0 +1,57 @@
+ body {
+  background-image: url('/static/back_contact.jpg');
+  background-size: 100%;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+#title{
+  text-align: center;
+}
+
+#date{
+  text-align: center;
+}
+
+#contact-email{
+  text-align: center;
+}
+
+#box{
+  width: 350px;
+}
+
+input:focus,
+textarea:focus {
+  outline: none
+}
+
+#acasa{
+  color: black;
+} 
+
+#paragraf{
+  text-align: center;
+  color: black;
+}
+
+
+.map-container {
+  /* position: relative;
+  padding-bottom: 26.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden; */
+  text-align: center;
+  
+
+}
+
+.map-container iframe,
+.map-container object,
+.map-container embed {
+  /* position: absolute; */
+  width: 600px;
+  height: 450px;
+}
+

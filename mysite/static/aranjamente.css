@@ -1,0 +1,18 @@
+
+#menu{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+#menu img{
+    width: 100%;
+    height: auto;
+    display: block;
+    border: 10px;
+}
+
+td{
+    margin-left: 100px;
+    margin-right: 100px;
+}
